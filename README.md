@@ -11,7 +11,7 @@ I'm a coder focused on native android development from Buenos Aires, Argentina. 
 
 - 🌱 I’m currently learning on **Argentina Programa 4.0**
 
-- 🔥 I’m currently upgrading on [MangIA](https://www.canva.com/design/DAFK1hoE1Tw/RJTAtFfv4Ike2cHBoAYxqA/view?utm_content=DAFK1hoE1Tw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 🔥 I’m currently upgrading on [MangIA](https://www.instagram.com/mangia_ar/)
 
 - 🚀 I’m currently working on **Trovami**
 
