@@ -1,4 +1,4 @@
-![logo](https://github.com/Sokamn/Sokamn/blob/main/banner.png)
+![logo](https://github.com/Sokamn/Sokamn/blob/main/top_banner.png)
 <h1 align="center">Hey 👋, I'm Matias Alzú</h1>
 <h3 align="center">Glad to see you here!</h3>
 I'm a coder focused on native android development from Buenos Aires, Argentina. I'm a passionate learner who's always willing to learn.
