@@ -26,7 +26,7 @@ I'm a coder focused on native android development from Buenos Aires, Argentina. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/matias alzú" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matias alzú" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/matias-alz%C3%BA-73b3a6189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matias alzú" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sokamn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sokamn" height="30" width="40" /></a>
 <a href="https://instagram.com/mati_alzu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mati_alzu" height="30" width="40" /></a>
 <a href="https://dribbble.com/matias alzu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="matias alzu" height="30" width="40" /></a>
