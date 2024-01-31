@@ -11,9 +11,9 @@ I'm a coder focused on native android development from Buenos Aires, Argentina. 
 
 - 🌱 I’m currently learning on **Argentina Programa 4.0**
 
-- 🔥 I’m currently upgrading on [MangIA](https://www.instagram.com/mangia_ar/)
+- 🔥 I’m currently upgrading on [Trovami](https://github.com/Sokamn/Android-Portfolio)
 
-- 🚀 I’m currently working on **Trovami**
+- 🚀 I’m currently working on [Lifecole®](https://www.lifecole.com/es)
 
 - 📫 How to reach me **matias.alzu143@gmail.com**
 
@@ -27,10 +27,9 @@ I'm a coder focused on native android development from Buenos Aires, Argentina. 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/matias-alz%C3%BA-73b3a6189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matias alzú" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sokamn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sokamn" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19260919/sokamn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sokamn" height="30" width="40" /></a>
 <a href="https://instagram.com/mati_alzu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mati_alzu" height="30" width="40" /></a>
-<a href="https://dribbble.com/matias alzu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="matias alzu" height="30" width="40" /></a>
-<a href="https://www.behance.net/matias alzu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="matias alzu" height="30" width="40" /></a>
+<a href="https://dribbble.com/Sokamn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="matias alzu" height="30" width="40" /></a>
 </p>
 
 
