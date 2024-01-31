@@ -9,7 +9,7 @@ I'm a coder focused on native android development from Buenos Aires, Argentina. 
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 🌱 I’m currently learning on **Argentina Programa 4.0**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 🔥 I’m currently upgrading on [Trovami](https://github.com/Sokamn/Android-Portfolio)
 
