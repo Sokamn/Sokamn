@@ -17,8 +17,6 @@ I'm a coder focused on native android development from Buenos Aires, Argentina. 
 
 - 📫 How to reach me **matias.alzu143@gmail.com**
 
-- 💬 Ask me about anything [here](https://walink.co/428830)! I am happy to help.
-
 - ⚡ Fun fact **I really love the Formula 1 🏎️**
 
 <h3 align="left">Languages and Tools:</h3>
