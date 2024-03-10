@@ -5,7 +5,7 @@ I'm a coder focused on native android development from Buenos Aires, Argentina. 
 
 <br> 
 
-- 👨‍🎓 I've graduated from a IT institute - **Instituto Técnico Industrial San Judas Tadeo**
+- 👨‍🎓 I've graduated from an IT institute - **Instituto Técnico Industrial San Judas Tadeo**
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
