@@ -11,11 +11,13 @@ I'm a coder focused on native android development from Buenos Aires, Argentina. 
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
-- 🔥 I’m currently upgrading on [Trovami](https://github.com/Sokamn/Android-Portfolio)
+- 🔥 I’m currently upgrading on **[Trovami](https://github.com/Sokamn/Android-Portfolio)**
 
-- 🚀 I’m currently working at [Lifecole®](https://www.lifecole.com/es)
+- 🚀 I’m currently working at **[Lifecole®](https://www.lifecole.com/es)**
 
 - 📫 How to reach me **matias.alzu143@gmail.com**
+
+- 💼 Check out my work **[here](https://github.com/Sokamn/Android-Portfolio)**
 
 - ⚡ Fun fact **I really love the Formula 1 🏎️**
 
