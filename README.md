@@ -1,8 +1,5 @@
 ![logo](https://github.com/Sokamn/Sokamn/blob/main/top_banner.png)
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
- </p>
 
 <h1 align="center">Hey 👋, I'm Matias Alzú</h1>
 <h3 align="center">Glad to see you here!</h3>
