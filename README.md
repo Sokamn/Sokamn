@@ -21,6 +21,8 @@ I'm a coder focused on native android development from Buenos Aires, Argentina. 
 
 - 💼 Check out my work **[here](https://github.com/Sokamn/Android-Portfolio)**
 
+- 💻 Check out my LinkedIn profile **[here](https://www.linkedin.com/in/matias-alzu/)**
+
 - ⚡ Fun fact **I really love the Formula 1 🏎️**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sokamn&show_icons=true&locale=en" alt="sokamn" /></p>
