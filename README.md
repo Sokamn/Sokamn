@@ -1,4 +1,4 @@
-![logo](https://github.com/Sokamn/Sokamn/blob/main/top_banner.png)
+![logo](https://github.com/Sokamn/Sokamn/blob/main/Github.png)
 
 
 <h1 align="center">Hey 👋, I'm Matias Alzú</h1>
