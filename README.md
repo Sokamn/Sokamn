@@ -58,6 +58,8 @@ I’m passionate about creating impactful digital products and continuously impr
 
 ## 🛠️ Tech Stack
 
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+
 **Mobile Development**
 <p>
   <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio" />
