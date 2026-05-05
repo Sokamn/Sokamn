@@ -29,7 +29,7 @@ I’m passionate about creating impactful digital products and continuously impr
       <p>
         AI-powered recipe social app.<br/>
         Scan ingredients and discover recipes from the community.<br/>
-        🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
+        🔗 <a href="https://github.com/Sokamn/MangIA_7mo">Repo</a>
       </p>
     </td>
     <td align="center">
@@ -38,7 +38,7 @@ I’m passionate about creating impactful digital products and continuously impr
       <p>
         Micro-job marketplace.<br/>
         Connects people who need help with those looking for small jobs.<br/>
-        🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
+        🔗 <a href="https://github.com/Sokamn/Trovami">Repo</a>
       </p>
     </td>
     <td align="center">
@@ -48,7 +48,7 @@ I’m passionate about creating impactful digital products and continuously impr
         Real-time earthquake tracker.<br/>
         Includes map visualization and detailed data.<br/>
         <a href="https://appetize.io/app/b_smuam7dcvgysk6pucoobcdhgdy"><b>Live Demo Available</b></a><br/>
-        🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
+        🔗 <a href="https://github.com/Sokamn/Earthquake_Viewer">Repo</a>
       </p>
     </td>
   </tr>
@@ -75,7 +75,7 @@ I’m passionate about creating impactful digital products and continuously impr
 
 **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gradle,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,gradle,docker,figma" />
 </p>
 
 ---
