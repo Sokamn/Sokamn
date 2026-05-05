@@ -39,12 +39,13 @@ I’m passionate about creating impactful digital products and continuously impr
       </p>
     </td>
     <td align="center">
+      <br/>
       <h3>🌍 Earthquake Viewer</h3>
-      <img src="https://github.com/Sokamn/Sokamn/blob/main/EarthquakeViewer.png" width="300"/><br/><br/>
+      <img src="https://github.com/Sokamn/Sokamn/blob/main/EarthquakeViewer.png" width="405"/><br/><br/>
       <p>
         Real-time earthquake tracker.<br/>
         Includes map visualization and detailed data.<br/>
-        <b>Live Demo Available</b>
+        <a href="https://appetize.io/app/b_smuam7dcvgysk6pucoobcdhgdy"><b>Live Demo Available</b></a>
       </p>
     </td>
   </tr>
