@@ -15,6 +15,7 @@ I’m passionate about creating impactful digital products and continuously impr
 - 🌐 Also skilled in **JavaScript & React Native**
 - 🎯 Currently looking for opportunities as a **Software Developer / Android Developer**
 - 🧠 Background as a tech educator, strengthening communication and problem-solving skills
+- ⚡ Fun fact **I really love the Formula 1 🏎️**
 
 ---
 
@@ -27,7 +28,8 @@ I’m passionate about creating impactful digital products and continuously impr
       <img src="https://github.com/Sokamn/Sokamn/blob/main/MangIA.png" width="300"/><br/><br/>
       <p>
         AI-powered recipe social app.<br/>
-        Scan ingredients and discover recipes from the community.
+        Scan ingredients and discover recipes from the community.<br/>
+        🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
       </p>
     </td>
     <td align="center">
@@ -35,7 +37,8 @@ I’m passionate about creating impactful digital products and continuously impr
       <img src="https://github.com/Sokamn/Sokamn/blob/main/Trovami.png" width="300"/><br/><br/>
       <p>
         Micro-job marketplace.<br/>
-        Connects people who need help with those looking for small jobs.
+        Connects people who need help with those looking for small jobs.<br/>
+        🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
       </p>
     </td>
     <td align="center">
@@ -44,7 +47,8 @@ I’m passionate about creating impactful digital products and continuously impr
       <p>
         Real-time earthquake tracker.<br/>
         Includes map visualization and detailed data.<br/>
-        <a href="https://appetize.io/app/b_smuam7dcvgysk6pucoobcdhgdy"><b>Live Demo Available</b></a>
+        <a href="https://appetize.io/app/b_smuam7dcvgysk6pucoobcdhgdy"><b>Live Demo Available</b></a><br/>
+        🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
       </p>
     </td>
   </tr>
@@ -55,29 +59,31 @@ I’m passionate about creating impactful digital products and continuously impr
 ## 🛠️ Tech Stack
 
 **Mobile Development**
-- Kotlin
-- Java
-- Jetpack Compose
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio" />
+</p>
 
 **Backend & Services**
-- Firebase
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,php" />
+</p>
 
-**Cross-Platform / Web**
-- JavaScript
-- React Native
+**Web / Cross-Platform**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react" />
+</p>
 
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+**Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gradle,docker" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: [Your LinkedIn]
-- 🌍 Portfolio: [Your Portfolio]
+- 💼 LinkedIn: [Here](https://www.linkedin.com/in/matias-alzu/)
+- 🌍 Portfolio: [Here](https://github.com/Sokamn/Android-Portfolio)
 
 ---
 
