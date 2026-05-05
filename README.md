@@ -24,7 +24,7 @@ I’m passionate about creating impactful digital products and continuously impr
   <tr>
     <td align="center">
       <h3>🍳 MangIA</h3>
-      <img src="images/mangia.png" width="300"/><br/><br/>
+      <img src="https://github.com/Sokamn/Sokamn/blob/main/MangIA.png" width="300"/><br/><br/>
       <p>
         AI-powered recipe social app.<br/>
         Scan ingredients and discover recipes from the community.
@@ -32,7 +32,7 @@ I’m passionate about creating impactful digital products and continuously impr
     </td>
     <td align="center">
       <h3>🔧 Trovami</h3>
-      <img src="images/trovami.png" width="300"/><br/><br/>
+      <img src="https://github.com/Sokamn/Sokamn/blob/main/Trovami.png" width="300"/><br/><br/>
       <p>
         Micro-job marketplace.<br/>
         Connects people who need help with those looking for small jobs.
@@ -40,7 +40,7 @@ I’m passionate about creating impactful digital products and continuously impr
     </td>
     <td align="center">
       <h3>🌍 Earthquake Viewer</h3>
-      <img src="images/earthquake.png" width="300"/><br/><br/>
+      <img src="https://github.com/Sokamn/Sokamn/blob/main/EarthquakeViewer.png" width="300"/><br/><br/>
       <p>
         Real-time earthquake tracker.<br/>
         Includes map visualization and detailed data.<br/>
