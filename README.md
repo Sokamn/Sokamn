@@ -1,30 +1,92 @@
 ![logo](https://github.com/Sokamn/Sokamn/blob/main/Github.png)
+# 👋 Hi, I'm Matias Alzu
+**`Software Developer • STEAM Educator • Content Creator`** 
 
+🚀 IT Technician and Computer Engineering student, specializing in Android Development and focused on building scalable and user-friendly applications.
 
-<h1 align="center">Hey 👋, I'm Matias Alzú</h1>
-<h3 align="center">Glad to see you here!</h3>
-I'm a coder focused on native android development from Buenos Aires, Argentina. I'm a passionate learner who's always willing to learn.<br>
+I’m passionate about creating impactful digital products and continuously improving my skills through real-world projects.
 
-<br> 
+---
 
-- 👨‍🎓 I've graduated from an IT institute - **Instituto Técnico Industrial San Judas Tadeo**
+## 🧑‍💻 About Me
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+- 📱 Android Developer specialized in **Kotlin & Jetpack Compose**
+- 🔥 Experience working with **Firebase** and modern mobile architectures
+- 🌐 Also skilled in **JavaScript & React Native**
+- 🎯 Currently looking for opportunities as a **Software Developer / Android Developer**
+- 🧠 Background as a tech educator, strengthening communication and problem-solving skills
 
-- 🌱 I’m currently learning **React Native**
+---
 
-- 🔥 I’m studying on **Advanced Diploma in Software Development**
+## 🚀 Projects
 
-- 🚀 I’m currently working at **[Lifecole®](https://www.lifecole.com/es)**
+<table>
+  <tr>
+    <td align="center">
+      <h3>🍳 MangIA</h3>
+      <img src="images/mangia.png" width="300"/><br/><br/>
+      <p>
+        AI-powered recipe social app.<br/>
+        Scan ingredients and discover recipes from the community.
+      </p>
+    </td>
+    <td align="center">
+      <h3>🔧 Trovami</h3>
+      <img src="images/trovami.png" width="300"/><br/><br/>
+      <p>
+        Micro-job marketplace.<br/>
+        Connects people who need help with those looking for small jobs.
+      </p>
+    </td>
+    <td align="center">
+      <h3>🌍 Earthquake Viewer</h3>
+      <img src="images/earthquake.png" width="300"/><br/><br/>
+      <p>
+        Real-time earthquake tracker.<br/>
+        Includes map visualization and detailed data.<br/>
+        <b>Live Demo Available</b>
+      </p>
+    </td>
+  </tr>
+</table>
 
-- 📫 How to reach me **matias.alzu143@gmail.com**
+---
 
-- 💼 Check out my work **[here](https://github.com/Sokamn/Android-Portfolio)**
+## 🛠️ Tech Stack
 
-- 💻 Check out my LinkedIn profile **[here](https://www.linkedin.com/in/matias-alzu/)**
+**Mobile Development**
+- Kotlin
+- Java
+- Jetpack Compose
 
-- ⚡ Fun fact **I really love the Formula 1 🏎️**
+**Backend & Services**
+- Firebase
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sokamn&show_icons=true&locale=en" alt="sokamn" /></p>
+**Cross-Platform / Web**
+- JavaScript
+- React Native
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sokamn&" alt="sokamn" /></p>
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 LinkedIn: [Your LinkedIn]
+- 🌍 Portfolio: [Your Portfolio]
+
+---
+
+## 🎯 Goals
+
+- Grow as an **Android Developer** in a professional environment  
+- Contribute to meaningful and scalable software projects  
+- Keep learning and building impactful applications  
+
+---
+
+⭐ *Always open to new opportunities and collaborations*
