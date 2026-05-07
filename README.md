@@ -1,4 +1,4 @@
-![logo](https://github.com/Sokamn/Sokamn/blob/main/Github.png)
+![logo](https://github.com/Sokamn/Sokamn/blob/main/heaader.png)
 # 👋 Hi, I'm Matias Alzu
 **`Software Developer • STEAM Educator • Content Creator`** 
 
