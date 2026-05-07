@@ -1,5 +1,5 @@
 ![logo](https://github.com/Sokamn/Sokamn/blob/main/heaader.png)
-# 👋 Hi, I'm Matias Alzu
+# 👋 Hi, I'm Matias Alzú
 **`Software Developer • STEAM Educator • Content Creator`** 
 
 🚀 IT Technician and Computer Engineering student, specializing in Android Development and focused on building scalable and user-friendly applications.
